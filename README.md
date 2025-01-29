@@ -67,3 +67,4 @@ The primary dataset used in this analysis is synthetically generated and designe
 ![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/monetary%20flow%20dashboard.png)
 
 ![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/SQL%20Database.png)
+![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/sql%20datab.png)
