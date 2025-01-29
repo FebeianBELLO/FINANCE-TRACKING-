@@ -64,4 +64,4 @@ The primary dataset used in this analysis is synthetically generated and designe
 - Encourage individuals to explore investment opportunities, whether through stocks, mutual funds, or real estate, to grow wealth over time and generate passive income.
 - Advise on enhancing skills through education, training, or certifications in high-demand fields, to increase earning potential and improve career prospects.
 
-![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/monetary%20income%20dashboard.png)
+![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/monetary%20flow%20dashboard.png)
