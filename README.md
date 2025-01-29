@@ -1,4 +1,4 @@
-# FINANCE-TRACKING-
+# FINANCE-TRACKING
 using SQL and Power BI to analyze people's finances', focusing on income sources, spending habits, savings and debt . By creating a database that accounts for taxes and tracks income frequency, I uncovered critical insights
 ---
 ## Table of contents 
@@ -65,3 +65,5 @@ The primary dataset used in this analysis is synthetically generated and designe
 - Advise on enhancing skills through education, training, or certifications in high-demand fields, to increase earning potential and improve career prospects.
 
 ![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/monetary%20flow%20dashboard.png)
+
+![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/SQL%20Database.png)
