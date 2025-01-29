@@ -14,40 +14,37 @@ using SQL and Power BI to analyze people's finances', focusing on income sources
 ---
 The analysis of this project is to showcase the value of financial tracking and literacy in avoiding debt, enabling smarter saving and investment decisions. 
 
-![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/tomato%20pizz.png)
+![Dashboard](https://github.com/FebeianBELLO/FINANCE-TRACKING-/blob/main/finance.png)
 
 
 ### Data sources 
 ---
-The primary dataset used for this analysis is the "Pizza Place Sales.csv"file, 
+The primary dataset used in this analysis is synthetically generated and designed to closely resemble real-world data. This approach ensures the integrity of the analysis while fully complying with data privacy regulations.
 Source:Vincent Arel-Bundock (Rdatasets)
 ### Tools
 ---
-- import and cleaning
-- Formulas and Functions
-- lookup functions
-- Pivot Tables
-- Conditional Formatting
-- Data Validation
-- Power Query
-- Slicers
-- pivot charts
+-  Database 
+- quick dbd
+- sql
+- excel for cleaning
+- python
+- powerBI
 ### key features
 ---
-- Enhances operational efficiency by aligning staff schedules with peak hours to maximize engagement and sales through targeted marketing campaigns.
-- identify  the best selling products , while promoting combo deals and special offers to increase average order value.
-- Offers valuable insights for improvement by identifying periods of high and low demand.
-- Drives menu optimization and product placement, focusing on advertising bestsellers to attract repeat customers and new buyers.
-- Conducts financial performance analysis to aid in budget planning and forecasting for overall financial health and profitability.
-- Identifies opportunities for targeted promotions and marketing initiatives.
+- Provides a structured way to monitor how money flows in—whether from weekly wages, monthly salaries, or annual earnings.
+- Tracks the frequency of income receipt and its sources, offering a clearer picture of financial inflows over time.
+- Helps individuals track where their money goes by analyzing spending patterns and categories.
+- Pinpoints lucrative financial opportunities and investment initiatives to optimize wealth-building strategies.
+- Conducts financial performance analysis to aid in budget planning and forecasting, ensuring overall financial health and profitability.
+- Analyzes trends in spending, saving, debt management, and investment to uncover key financial behaviors.
+
 ### key Analysis 
 ---
-- knowing the number of customers for each day and aligning staff schedules with peak hours enhances operational efficiency and maximizes engagement and sales through targeted marketing campaigns.
-- Use data to identify the best-selling products, while promoting combo deals and special offers to increase average order value.
-- Identifying high and low demand periods provides valuable insights for improving marketing strategies and business operations.
-- Sales data drives menu optimization and strategic product placement, focusing on advertising bestsellers to attract repeat customers and new buyers.
-- Financial performance analysis aids in budget planning and forecasting, ensuring overall financial health and profitability.
-Identifying opportunities for targeted promotions and marketing initiatives enhances customer engagement and drives revenue growth.
+- Tracks income from various sources, providing insights into financial inflows.
+- Analyzes how often income is received and from which sources, offering a clear picture of cash flow consistency.
+- Monitors spending patterns, categorizing expenses to identify trends and areas for financial optimization.
+- Assesses financial performance, aiding in budget planning and forecasting to maintain long-term financial health.
+- Analyzes trends in spending, saving, debt, and investment to uncover key financial behaviors and guide strategic decisions.
 
 ![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/The%20pizza%20Dashboard.png)
 
